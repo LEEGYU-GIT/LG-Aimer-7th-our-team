@@ -8,17 +8,14 @@ LG Aimers 7기 Phase 2 오프라인 해커톤 참여 프로젝트입니다. (참
 ## 📂 Repository Structure
 - **`LG Aimer 7th 최종코드.ipynb`** : 데이터 전처리, 피처 엔지니어링, 모델 학습 및 평가 파이프라인이 모두 포함된 최종 주피터 노트북 소스 코드입니다.
 - **`업장별 판매량 데이터 시각화 분석.pdf`** : 데이터 분석 인사이트, 모델링 전략, 시행착오 및 문제 해결 과정 등 팀의 전체 프로젝트 진행 과정을 상세히 정리한 문서입니다.
-
+  
 ## My Role
 - 데이터 전처리 및 탐색적 데이터 분석(EDA)
 - 피처 상관관계 분석 및 파생 변수(Feature) 도출
 - 대회 평가 산식(SMAPE)에 최적화된 예측 모델 구축 및 성능 튜닝
 
-## Tech Stack
-- **Language:** Python
-- **AI/ML:** PyTorch, scikit-learn
-- **Data Analysis:** pandas
-- **Environment:** Jupyter Notebook, Colab, Kaggle
+## 🛠 Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 ## Key Process
 - **Data Preprocessing:** 2년 치 시계열 데이터의 결측치 및 이상치 처리, 시계열 포맷팅
